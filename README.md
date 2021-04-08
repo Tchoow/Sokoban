@@ -13,7 +13,7 @@ avec interface graphique développé en swing (GUI).
 
 ## Utilisation:
 
-Étape 1 : Compiler les fichiers Java du projet depuis un dés répertoire:
+Étape 1 : Compiler les fichiers Java du projet depuis un dés répertoires:
 ["Cui version base", "GUI version 1", "GUI version 2", "GUI version 3"]
 ```
 javac *java
